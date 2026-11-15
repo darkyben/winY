@@ -1,0 +1,387 @@
+{
+  "ranking_url": "https://zed.dev/extensions?filter=themes",
+  "retrieved": "2026-11-14",
+  "adaptation": "Only colors used by winY are embedded; upstream effects, font weights and italics are not imported.",
+  "families": [
+    {
+      "rank": 1,
+      "extension": "catppuccin",
+      "repository": "https://github.com/catppuccin/zed.git",
+      "revision": "4314cb05c74d141b7962290a41d6087e8c0ad02f",
+      "files": [
+        "themes\\catppuccin-mauve.json",
+        "themes\\catppuccin-no-italics-mauve.json"
+      ],
+      "themes": [
+        "Catppuccin Latte",
+        "Catppuccin Frappé",
+        "Catppuccin Macchiato",
+        "Catppuccin Mocha",
+        "Catppuccin Latte - No Italics",
+        "Catppuccin Frappé - No Italics",
+        "Catppuccin Macchiato - No Italics",
+        "Catppuccin Mocha - No Italics"
+      ],
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "rank": 2,
+      "extension": "macos-classic",
+      "repository": "https://github.com/huacnlee/zed-theme-macos-classic.git",
+      "revision": "22266e11c4b8962be2e259011251b4016ff00552",
+      "files": [
+        "themes\\macos-classic.json"
+      ],
+      "themes": [
+        "macOS Classic Light",
+        "macOS Classic Dark"
+      ],
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "rank": 3,
+      "extension": "tokyo-night",
+      "repository": "https://github.com/ssaunderss/zed-tokyo-night.git",
+      "revision": "43d436251e5246647d3a0da0d710c04df9cd68f7",
+      "files": [
+        "themes\\tokyo-night.json"
+      ],
+      "themes": [
+        "Tokyo Night",
+        "Tokyo Night Light",
+        "Tokyo Night Storm",
+        "Tokyo Night Moon"
+      ],
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "rank": 4,
+      "extension": "one-dark-pro",
+      "repository": "https://github.com/MordFustang21/zed-one-dark-pro.git",
+      "revision": "da51c556fe30ab311f9dfbac1d816ca108916d65",
+      "files": [
+        "themes\\one-dark.json"
+      ],
+      "themes": [
+        "One Dark Pro"
+      ],
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "rank": 5,
+      "extension": "github-theme",
+      "repository": "https://github.com/PyaeSoneAungRgn/github-zed-theme.git",
+      "revision": "a6a28d366211b208251893f17fe2cf1a9fa9097a",
+      "files": [
+        "themes\\github_theme.json"
+      ],
+      "themes": [
+        "GitHub Light",
+        "GitHub Light Colorblind",
+        "GitHub Light High Contrast",
+        "GitHub Light Tritanopia",
+        "GitHub Dark",
+        "GitHub Dark Colorblind",
+        "GitHub Dark High Contrast",
+        "GitHub Dark Tritanopia",
+        "GitHub Dark Dimmed"
+      ],
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "rank": 6,
+      "extension": "nvim-nightfox",
+      "repository": "https://github.com/cange/nightfox.zed.git",
+      "revision": "e0442654e23b7ef5795721229d96c052370ffb6c",
+      "files": [
+        "themes\\nvim-nightfox.json"
+      ],
+      "themes": [
+        "Nightfox - opaque",
+        "Dayfox - opaque",
+        "Dawnfox - opaque",
+        "Duskfox - opaque",
+        "Nordfox - opaque",
+        "Terafox - opaque",
+        "Carbonfox - opaque",
+        "Nightfox - blurred",
+        "Dayfox - blurred",
+        "Dawnfox - blurred",
+        "Duskfox - blurred",
+        "Nordfox - blurred",
+        "Terafox - blurred",
+        "Carbonfox - blurred"
+      ],
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "rank": 7,
+      "extension": "vscode-dark-modern",
+      "repository": "https://github.com/kcamcam/vscode_dark_modern.zed.git",
+      "revision": "7cc9f395cb766e9dbe4fe5a1b7e3272ea0dc6693",
+      "files": [
+        "themes\\vscode-dark-modern.json"
+      ],
+      "themes": [
+        "VSCode Dark Modern"
+      ],
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "rank": 8,
+      "extension": "dracula",
+      "repository": "https://github.com/dracula/zed.git",
+      "revision": "c419d710e77f22ec4e4e8481324b93ef0916d368",
+      "files": [
+        "themes\\dracula.json"
+      ],
+      "themes": [
+        "Dracula",
+        "Dracula Solid",
+        "Dracula Light (Alucard)"
+      ],
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "rank": 9,
+      "extension": "snazzy",
+      "repository": "https://github.com/Eivs/zed-snazzy",
+      "revision": "026ff638da9ab01665e44e8492fbb05a23e88fdd",
+      "files": [
+        "themes\\snazzy.json"
+      ],
+      "themes": [
+        "Snazzy Theme",
+        "Snazzy Theme - blurred"
+      ],
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "rank": 10,
+      "extension": "catppuccin-blur",
+      "repository": "https://github.com/jenslys/zed-catppuccin-blur.git",
+      "revision": "9a9f89c90b6170445682e16bf3c39536e709b71d",
+      "files": [
+        "themes\\catppuccin-blur.json"
+      ],
+      "themes": [
+        "Catppuccin Iced Latte (Blur) [Light]",
+        "Catppuccin Iced Latte (Blur)",
+        "Catppuccin Iced Latte (Blur) [Heavy]",
+        "Catppuccin Espresso (Blur) [Light]",
+        "Catppuccin Espresso (Blur)",
+        "Catppuccin Espresso (Blur) [Heavy]",
+        "Catppuccin Latte (Blur) [Light]",
+        "Catppuccin Frappé (Blur) [Light]",
+        "Catppuccin Macchiato (Blur) [Light]",
+        "Catppuccin Mocha (Blur) [Light]",
+        "Catppuccin Latte (Blur)",
+        "Catppuccin Frappé (Blur)",
+        "Catppuccin Macchiato (Blur)",
+        "Catppuccin Mocha (Blur)",
+        "Catppuccin Latte (Blur) [Heavy]",
+        "Catppuccin Frappé (Blur) [Heavy]",
+        "Catppuccin Macchiato (Blur) [Heavy]",
+        "Catppuccin Mocha (Blur) [Heavy]"
+      ],
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "rank": 11,
+      "extension": "jetbrains-themes",
+      "repository": "https://github.com/artemevsevev/zed-theme-jetbrains.git",
+      "revision": "4385ff2c112e693716badf22e8fb348bede26f93",
+      "files": [
+        "themes\\jetbrains-dark.json",
+        "themes\\jetbrains-islands-dark.json",
+        "themes\\jetbrains-islands-light.json",
+        "themes\\jetbrains-light.json"
+      ],
+      "themes": [
+        "JetBrains Dark",
+        "JetBrains Islands Dark",
+        "JetBrains Islands Light",
+        "JetBrains Light"
+      ],
+      "license_files": [
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "rank": 12,
+      "extension": "cutiepro-theme",
+      "repository": "https://codeberg.org/wuemeli/cutiepro-zed",
+      "revision": "7db4e4ba43d6310f94cca85139b3fddaad4095e7",
+      "files": [
+        "themes\\cutiepro.json"
+      ],
+      "themes": [
+        "cutiepro"
+      ],
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "rank": 13,
+      "extension": "the-dark-side",
+      "repository": "https://github.com/Imgkl/the-dark-side.git",
+      "revision": "74f4da7c537c0a22204c7572605e36ff24a350da",
+      "files": [
+        "themes\\the-dark-side.json"
+      ],
+      "themes": [
+        "The Dark Side"
+      ],
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "rank": 14,
+      "extension": "nord",
+      "repository": "https://github.com/mikasius/zed-nord-theme.git",
+      "revision": "d0b459c49797aec598622bed992537e4a83688da",
+      "files": [
+        "themes\\nord.json"
+      ],
+      "themes": [
+        "Nord Dark",
+        "Nord Darker",
+        "Nord Light",
+        "Nord Dark - No Italics",
+        "Nord Light - No Italics"
+      ],
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "rank": 15,
+      "extension": "material-dark",
+      "repository": "https://github.com/xerodark/zed-material-theme.git",
+      "revision": "e902b96f14d392af3056e50a51ab40696d55b2c2",
+      "files": [
+        "themes\\zed_material_theme.json"
+      ],
+      "themes": [
+        "Material Dark"
+      ],
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "rank": 16,
+      "extension": "github-dark-default",
+      "repository": "https://github.com/MordFustang21/zed-github-dark.git",
+      "revision": "dbbd66167753686ff3ff627208e15f7e27a9b1f9",
+      "files": [
+        "themes\\dark-default.json"
+      ],
+      "themes": [
+        "GitHub Dark Default"
+      ],
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "rank": 17,
+      "extension": "fleet-themes",
+      "repository": "https://github.com/skarline/zed-fleet-themes.git",
+      "revision": "73aebd4af6a9bc3e91c0398d573acf3279e61b0e",
+      "files": [
+        "themes\\fleet.json"
+      ],
+      "themes": [
+        "Fleet Light",
+        "Fleet Dark Purple",
+        "Fleet Dark"
+      ],
+      "license_files": []
+    },
+    {
+      "rank": 18,
+      "extension": "rose-pine-theme",
+      "repository": "https://github.com/rose-pine/zed",
+      "revision": "1446d31a2eec6bee627883d523ec63ef5c78ec9b",
+      "files": [
+        "themes\\rose-pine-dawn.json",
+        "themes\\rose-pine-moon.json",
+        "themes\\rose-pine.json"
+      ],
+      "themes": [
+        "Rosé Pine Dawn",
+        "Rosé Pine Moon",
+        "Rosé Pine"
+      ],
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "rank": 19,
+      "extension": "new-darcula",
+      "repository": "https://github.com/e-simpson/new-darcula-z.git",
+      "revision": "78ec1bc09c9be871ab7d0a181d0ecf7f84023b46",
+      "files": [
+        "themes\\newdarcula.json"
+      ],
+      "themes": [
+        "New Darcula",
+        "New Darcula Darker",
+        "New Darcula Light"
+      ],
+      "license_files": [
+        "LICENSE"
+      ]
+    },
+    {
+      "rank": 20,
+      "extension": "zedokai",
+      "repository": "https://github.com/slymax/zedokai.git",
+      "revision": "0da8987b425111b0ac06a639e73c454bad5005bc",
+      "files": [
+        "themes\\zedokai.json"
+      ],
+      "themes": [
+        "Zedokai",
+        "Zedokai (Filter Octagon)",
+        "Zedokai (Filter Ristretto)",
+        "Zedokai (Filter Spectrum)",
+        "Zedokai (Filter Machine)",
+        "Zedokai Classic",
+        "Zedokai Darker",
+        "Zedokai Darker (Filter Octagon)",
+        "Zedokai Darker (Filter Ristretto)",
+        "Zedokai Darker (Filter Spectrum)",
+        "Zedokai Darker (Filter Machine)",
+        "Zedokai Darker Classic",
+        "Zedokai Light",
+        "Zedokai Light (Filter Sun)"
+      ],
+      "license_files": []
+    }
+  ]
+}

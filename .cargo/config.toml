@@ -1,0 +1,8 @@
+[net]
+git-fetch-with-cli = true
+
+[build]
+jobs = 4
+
+[target.'cfg(target_os = "windows")']
+rustflags = ["--cfg", "windows_slim_errors"]
